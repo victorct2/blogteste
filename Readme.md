@@ -1,3 +1,3 @@
 #GIT course
 
-#este é um repositório teste para ensinar como o git funciona
+#este é um repositório teste para ensinar como o git funciona, saiba mais em bla bla bla
